@@ -8,6 +8,9 @@ public class Array1 {
 		for (int i=0; i<a.length; i++) {
 			System.out.println(a[i]);
 			System.out.println("Changes Made by Sandhya");
+			System.out.println("Changes Made by Rupal");
+			System.out.println("Changes Made by Shinde");
+			System.out.println("Changes Made by Muley");
 			
 		}
 		
